@@ -1,10 +1,10 @@
-# Blockchain Commons `$projectname`
+# Blockchain Commons Pseudonimity Guide
 
 <!--Guidelines: https://github.com/BlockchainCommons/secure-template/wiki -->
 
-### _by $major-authors_
+### _by Namcios and Christopher Allen_
 
-**`$ProjectDescription`** is …
+**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonimous identity.
 
 ## Additional Information
 
@@ -12,30 +12,15 @@ The following files contain…
 
 * `$ListOfEssentialDocs`
 
-## Gordian Principles
+## Status - Early Draft
 
-` $projectname` is a reference implementation meant to display the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), which are philosophical and technical underpinnings to Blockchain Commons' Gordian technology. This includes:
-
-* **Independence.** `how does it demonstrate independence`
-* **Privacy.** `how does it demonstrate privacy`
-* **Resilience.** `how does it demonstrate resilience`
-* **Openness.** `how does it demonstrate openness`
-
-Blockchain Commons apps do not phone home and do not run ads. Some are available through various app stores; all are available in our code repositories for your usage.
-
-`REMOVE THIS SECTION UNLESS THIS IS A REFERENCE APP MEANT TO DEMONSTRATE GORDIAN PRINCIPLES`
-
-## Status - Late Alpha
-
-` $projectname`  is currently under active development and in the late alpha testing phase. It should not be used for production tasks until it has had further testing and auditing.
+Pseudonymity Guide is currently an early draft. It should not be used for production tasks until it has had further testing and auditing. Feedback welcomed.
 
 ### Roadmap
 
-## Prerequisites
+August 2021
 
-## Installation Instructions
-
-## Usage Instructions
+- Finish first version of the guide
 
 ## Origin, Authors, Copyright & Licenses
 
@@ -51,17 +36,11 @@ This table below also establishes provenance (repository of origin, permalink, a
 
 ### Dependencies
 
-To build  `$projectname` you'll need to use the following tools:
-
-- autotools - Gnu Build System from Free Software Foundation ([intro](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html)).
+None.
 
 ### Libraries
 
-The following external libraries are used with `$projectname`:
-
-- [community/repo-name](https://github.com/community/repo-name) — What the library does (use OR fork [version] OR include [version]).
-
-Libraries may be marked as `use` (the current version of the library is used), `fork` (a specific version has been forked to the BCC repos for usage), or `include` (files from a specific version have been included).
+None.
 
 ### Derived from ...
 
@@ -93,9 +72,9 @@ These are other projects that work with or leverage `$projectname`:
 
 ## Financial Support
 
-`$projectname` is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
+Pseudonymity Guide is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
 
-To financially support further development of `$projectname` and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
+To financially support further development of Pseudonymity Guide and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
 
 ### Project Sponsors
 
@@ -129,9 +108,10 @@ If your company requires support to use our projects, please feel free to contac
 
 The following people directly contributed to this repository. You can add your name here by getting involved. The first step is learning how to contribute from our [CONTRIBUTING.md](./CONTRIBUTING.md) documentation.
 
-| Name              | Role                | Github                                            | Email                                 | GPG Fingerprint                                    |
-| ----------------- | ------------------- | ------------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
+| Name              | Role                | Github                                           | Email                                 | GPG Fingerprint                                    |
+| ----------------- | ------------------- | ------------------------------------------------ | ------------------------------------- | -------------------------------------------------- |
 | Christopher Allen | Principal Architect | [@ChristopherA](https://github.com/ChristopherA) | \<ChristopherA@LifeWithAlacrity.com\> | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+| Namcios           | Lead                | [@namcios](https://github.com/namcios)           | namcios@protonmail.com                | 55A2 4BE0 AEE5 DB41 52C6 A410 8E3A 3683 1726 9AB4  |
 
 ## Responsible Disclosure
 
