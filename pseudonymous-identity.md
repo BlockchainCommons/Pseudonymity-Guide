@@ -28,6 +28,35 @@ Mass surveillance is dangerous; it can silence or manipulate people. Privacy, an
 
 – Edward Snowden.
 
+## Define Your Threat Model
+
+Before creating your pseudonymous identity, you should step back and take some time to figure out your threat model and the security requirements associated.
+
+>  NOTE: Beware that this guide does not aim to help you guard from highly skilled, highly motivated individuals with unlimited resources (for example if the NSA is coming after you individually).
+
+You should think about what do you want to protect and who do you want to protect it from. Additionally, you may want to consider the consequences if you fail. This will help you determine how serious each threat is and plan accordingly. You will most likely take into account the likelihood of each threat happening, evaluate it against the potential harm it may cause, and the general cost to protect against it.
+
+In the end, you'll have to decide how much trouble you're willing to go through to try and prevent potential but dire consequences. This might require listing out the options you have that could help mitigate such scenarios and proof-testing them one by one.
+
+The _exact_ steps you should take to define your threat model go beyond the scope of this guide. We will present you, however, with an overview and link to good resources. Generally, however, you should think about:
+
+1. What do you want to protect? Think about the assets you have which you don't wish to lose. This could encompass a wide range of goods, from physical to digital and pure information. It could be your bitcoin, your identity, your car, your smartphone, etc. Think about each and every good you wouldn't want falling in undesirable hands and list them out.
+2. Who do you want to protect it from? Now, look back on your list of assets you want to protect and think about who shouldn't get a hold of them. This may change from asset to asset. For example, you might not want your spouse to have all the keys to your bitcoin, but you probably wouldn't bother to have them borrow your car. Again, you'll have to think about your unique circumstances, priorities, and levels of threat. In summary, who or what are the people/companies/governments that shouldn't be able to get to or control or seize each of the listed assets?
+3. How bad are the consequences if you fail? Take a moment to think about the worst-case scenarios that could come true if that entity took hold of that asset. Would they only be able to steal the asset itself? Would you or your family be put in danger? If so, what kind, online danger or physical danger? Both? It might also be helpful to rank the potential consequences; it might make it easier for you to spot the worse ones.
+4.  Out of those potential consequences, which ones should you really guard against? You may take into consideration both the likelihood of that consequence happening as well as how dire it would be. If something really bad is very likely to happen and is possible to be guarded against, that could be on the top of your priority list. Of course, not everything is possible to be prevented, but that also doesn't mean you shouldn't try. Threat modeling will help you figure out what you should work towards improving so that the chance of someone doing something bad with that diminishes. So in this step you should focus on deciding what threats you should work to mitigate.
+5. Finally, think about how much trouble are you willing to go through to try to prevent the potential consequences selected in the previous step. Different assets and different bad actors require different measures for protection, and that is what this step covers. Here you will think about what would be necessary to mitigate the chance of each threat to take place. Let your thoughts run free and outline all the possible steps you could take to make sure that threat's likelihood of happening would be diminished significantly or completely. Think about the options you have available to help mitigate your unique threats. Then, you will need to decide which of those steps you are willing to act upon. This is necessary because some of them might require a commitment of time, money, or skills which you either may not have or may decide not to be worth it. So elicit the requirements for mitigating each threat, in terms of money, time, efforts, technical skills, among others. Next, carefully evaluate how realistic each option is for your circumstances.
+
+The above five steps are based on the Surveillance Self Defense (SSD) initiative of the Electronic Frontier Foundation (EFF). You can find the complete guide [here](https://ssd.eff.org/en/module-categories/security-scenarios) –– it encompasses different requirements based on your specific activity. Take a look at it through the lens of the new identity you want to create and its required activities or scenarios.
+
+For more complete and serious ways of determining your threat model, you can browse through these resources (evaluate which ones might better fit your needs):
+
+- [Threat Modeling: 12 Available Methods](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/) by Carnegie Mellon University
+- [LINDDUN privacy engineering](https://www.linddun.org/): a systematic elicitation and mitigation of privacy threats in software systems
+- [Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html): OWASP Cheat Sheet Series
+- [PASTA Threat Modeling](https://versprite.com/tag/pasta-threat-modeling/)
+- [STRIDE Threat Modeling](https://en.wikipedia.org/wiki/STRIDE_%28security%29)
+- [DREAD Risk Assessment Model](https://en.wikipedia.org/wiki/DREAD_%28risk_assessment_model%29)
+
 ## Hardware Choices
 
 A quick note about hardware choices for your technological needs. You have plenty of options regarding _what_ to use, but perhaps the most important aspect is _how_ you use it.
