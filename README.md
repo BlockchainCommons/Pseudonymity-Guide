@@ -2,15 +2,13 @@
 
 <!--Guidelines: https://github.com/BlockchainCommons/secure-template/wiki -->
 
-### _by Namcios and Christopher Allen_
+### _by [Namcios](https://github.com/namcios) and Christopher Allen_
 
-**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonimous identity.
+**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonymous identity.
 
 ## Additional Information
 
-The following files contain…
-
-* `$ListOfEssentialDocs`
+* [Pseudonymous-identity.md](./pseudonymous-identity.md) is the project's main file and houses its core content. It provides a few introductory notes on privacy and pseudonymity, some starting tips for improving your privacy online, how to create a new pseudonymous identity, and how to operate it.
 
 ## Status - Early Draft
 
@@ -46,7 +44,7 @@ None.
 
 This  `$projectname` project is either derived from or was inspired by:
 
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com).
+- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from [community](https://community.com).
 
 ## Subsequent Usage
 
