@@ -4,7 +4,11 @@
 
 ### _by [Namcios](https://github.com/namcios) and Christopher Allen_
 
-**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonymous identity.
+**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonymous identity. It is aimed to help activists, journalists, and others prevent or evade online stalking, doxxing, harassment, oppression, or censorship.
+
+This guide does not aim to help malicious actors perform unethical, criminal, or illicit activities. It is written  with the sole purpose to inform good-intended individuals, especially human rights activists, about often overlooked considerations and risks in online activities. Therefore, it provides insights and actionable steps someone can take to sanitize their online environment and habits, as well as tips on creating and operating a pseudonymous identity separate from their real world identity.
+
+Currently, this guide does not provide information on achieving near-to-perfect privacy on the internet, for instance, to guard against NSA-like personal targetting.
 
 ## Additional Information
 
