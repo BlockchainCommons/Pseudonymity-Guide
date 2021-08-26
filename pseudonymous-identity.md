@@ -13,8 +13,7 @@ It is important to note that perfect privacy is not a thing. Aiming for the perf
     - Computers
   - Device Usage
 
-- Privacy vs Security
-- Privacy vs Anonymity
+- What to Use
 - Create Your Pseudonymous Identity
 - Operate Your Pseudonymous Identity
 
@@ -158,7 +157,7 @@ More notably, you could –– and should:
 
 > Note: for dissidents, human rights activists under totalitarian regimes, or other people on critical situations, the above tools might just not suffice. With that threat model, the individual would need to go at greater lengths for increasing their privacy or even strive for complete anonymity. Nonetheless, everyone can benefit from even the smallest steps; how far they go will depend on their threat model. To cite them again, some good resources, complementary to this guide, for determining digital security and privacy needs and actionable steps are the [EFF Surveillance Self-Defense](https://ssd.eff.org/) and [Front Line Defenders: Security-in-a-Box guides](https://securityinabox.org/).
 
-### What To Use
+### What to Use
 
 Having understood privacy basics, taken initial steps to increase your online privacy and sanitize your existing identity, understood some of the hardware and software choices you have and their tradeoffs, you can now analyze all that and settle on the perfect setup for you.
 
@@ -178,48 +177,38 @@ After you have taken basic yet important steps to increase present privacy, care
 
 It is important to define the _scope_ of your new identity. As you've completed the steps above, think about how your identity will interact with the world. More precisely, what will your identity do, through which mediums, with which tools, and when? Having that clear (and often written down) will help you along the way to prevent you from getting distracted.
 
+For the following steps, use the setup you selected in "What to Use." At the very least, use the Tor Browser going forward in an internet connection that is not your home's and that has no video footage. All the following steps will assume you're using Tor.
 
+> **Note:** The following steps seem small and simple, however, it may take you a considerable amount of time to go through each one. _You should take your time to complete them right!_ Each tip or mention is worth considering and going through, so be calm and do it right rather than quick.
+>
+> **On downloads:** Always download through Tor, and always verify your downloads. Below download buttons for software products there is usually a "Verify Signature" or "GPG signature" little icon (or something similar). _Always click on that and go through the steps to verify your download_, otherwise you won't know if you downloaded the correct software or if it was tampered with.
 
+1. **The first thing you need is clean bitcoin**, which you can get in KYC-free sources. Find more about it and ways to get it [here](http://lq2thd4kcnqvbm6k47qkt2ctzrfd567ewqeowehgqbekesgvn4npcmid.onion/nokyconly/) and [here](https://github.com/cointastical/P2P-Trading-Exchanges/). The Hitchhiker's Guide to Online Anonymity cited above also has a section on this. _Take your time to get clean BTC because this is essential to the remainder steps_.
+   - Buy it in batches to _different_ addresses, because you don't want to deal with change too much, as it can hurt your privacy.
+   - Use a good wallet like Samourai or Wasabi that use Tor by default.
+   - Both wallets above will enforce some good practices for Bitcoin addresses and transactions, as well as let you CoinJoin your coins, increasing your anonymity (if you do it right). And if you're using Samourai you can also make your spend a CoinJoin to increase spending privacy –– which will be important in the next step.
+2. **Purchase a good VPN service**. Head over to Mullvad's onion website and create a new account. This will generate you an account number, then select the amount of time you'd want to fund your account for and pay with your clean bitcoin. It will help your anonymity to use the full contents of one UTXO for paying Mullvad, because then you wouldn't receive any change. But that may be hard to coordinate, so if not possible to match, just having your change be of considerable amount instead of a negligible one will make it harder for chain analysis companies to spot what is the payment and what is the change.
+   - After you have paid, download the Mullvad app _only_ to the devices your new identity will be using. But note that it may take a while for your account balance to update and see your payment due to blockchain confirmations, so be patient.
+   - When Mullvad is fully set up in your devices and working, always connect to it first before connecting to Tor (regardless of what your Tor method is).
+   - You can also go in Mullvad app's `Settings > Advanced > Always Require VPN`, so that if your connection goes down the app will block internet access.
+3. **Pick an email provider**, but don't create your account just yet. ProtonMail is my personal advice, and should be the best choice for most people. But there are other good alternatives as well. You can reference [this page](http://www.privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/providers/email/) for choosing a privacy-preserving email provider that best fits your needs.
+4. **Search for and pick a pronounceable handle.** Whilst doing everything over Tor, start thinking on what your new identity's name would be like. Focus on readibility, and it should be pronounceable as well. Search for and pick a handle that:
+   - Is not already in use by ProtonMail (or the email provider you chose in the previous step).
+   - Is not already in use by GitHub.
+   - Is not already in use by Twitter (optional).
+   - Is not already in use by Gmail (optional).
+   - Has a cheap domain name available. Use [Namecheap](https://www.namecheap.com/) to search for and buy the domain if you wish to do so, since it accepts bitcoin and has some privacy-preserving features enabled automatically as well as some policies for protecting customer rights. This will be especially useful if you need to set up a website for advocacy, a donation page, or something of the sorts.
+5. **Get a new phone number.** You will need it for creating some accounts later on, so do it anonymously if you can –– buy a prepaid SIM with cash. That is not possible in some parts of the world, however, since KYC information may be required either to buy it or to set it up. So analyze what is best in your circumstances and considering your threat model. In either case, _do not use your real identity's phone number going forward_.
+   - If your budget allows it, also get a new phone. In most cases, and to make your identity's Operational Security (OpSec) easier, you can buy an affordable Pixel 4a with cash and de-google it with a security and privacy-conscious OS, such as Graphene or Calyx. But that may be hard to find in some areas or your skill level may not be there yet, so reference the Android-iOS discussion fleshed out in this guide's intro to decide.
+6. **Buy a WebAuthN key** (SmartCard) [for security](https://security.stackexchange.com/questions/38924/how-does-storing-gpg-ssh-private-keys-on-smart-cards-compare-to-plain-usb-drives). Purchase a [YubiKey](https://www.yubico.com/products/yubikey-hardware/) in person with cash. You can find resellers near you in their website. If there are none, adjust and purchase by revealing the least amount of personal information you can; notably, you can use a private mail box to prevent disclosing your home address.
+7. **Create your email account.** Go to the email provider you selected and create your email account. If they have an onion hidden service, Tor Browser will automatically redirect you so maybe wait a minute after the site has loaded to begin the account creation process.
+   - You may be asked to provide a phone number for confirmation; give your new one.
+8. **Generate new GPG keys.** Remember to use your pseudonymous handle and its email as your key's user ID.
+   - Follow [this guide](https://github.com/drduh/YubiKey-Guide) for creating your own keys and establishing a hardened setup with your new YubiKey.
+   - Alternatively, if technical skills become a bottleneck, save your YubiKey for later and have your email provider create GPG keys for you. Although not perfect, it is functional and may be acceptable for some threat models.
+9. **Create your GitHub account.** Of course, this assumes you'll need a GitHub account; if you won't, you may skip it. But it doesn't hurt to create one, as you might need it some day. So, create one, at least for securing your handle.
+   - [Add your GPG key to your GitHub account](https://github.com/BlockchainCommons/Secure-Development-Setup-macOS/blob/master/gpg-with-github.md).
+10. **[Optional] Create other accounts.** Your new identity might need additional accounts depending on its required activities. Go ahead and create them. Remember to use Tor for everything and provide the least amount of private information possible. Most service providers will prompt you for _many_ pieces of information but most of it is not _truly necessary_ for account creation. Just beware of that and create it attentively.
+    - Note: some of your identity needs can be accomplished with similar, more private and secure tools than mainstream ones. For example, you might need a document editing tool and Google Docs might jump out in your head as the go-to service, but often you could use CryptPad instead. Refer to [Privacy Tools](http://www.privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/) every time you realize you need to sign up for a new service and evaluate if there's a more private alternative that suits your needs.
 
-
-
-
-Before starting, you should define what you're seeking to guard yourself from by creating and operating under a new, parallel identity by defining your threat model.
-
-This can vary on a case-by-case basis, but two popular choices would be to either guard against basic online doxxing and other less sophisticated attacks, or to fully protect yourself against an abusive or totalitarian nation-state.
-
-### Basic Threat Model
-
-A more basic threat model seeks to prevent doxxing and similar threats. It doesn't guard against sofisticated actors such as nation-states, serious hackers, and anyone who has access to expensive lawyers and other resources.
-
-Accordingly, privacy and security needs are smaller.
-
-In this case, one would need:
-1. A pronounceable handle, ideally not already in use by ProtonMail and GitHub, and optionally not already in use by Twitter and Gmail. Also check for availability of a cheap domain name.
-2. Create a ProtonMail account. You will need a working SMS or a working non-ProtonMail email.
-3. Have ProtonMail create an initial GPG key for you.
-4. Register a GitHub account for your handle using your new ProtonMail email.
-5. Add your GPG key to your GitHub account.
-6. Purchase a WebAuthN key, for instance, a YubiKey, for increased security.
-
-### Advanced Threat Model
-
-The previous scenario disregarded some risks in its process, which weren't critical for that case but would be for a person who faces greater risk.
-
-Vulnerabilities in the basic threat model:
-* Searching for handle availability while not using Tails and/or Tor
-* Not using a dedicated, untraceable phone and phone number
-    * Using your current phone number for your new identity would be the highest vulnerability
-    * A midway could be using an eSIM on your current phone, if it has that functionality. In this case, your vulnerability would be the carrier but it would at least be separated from your personal phone number.
-
-A hardened identity creation process would be:
-1. Use Tor and VPN in each and every step, making sure to connect to VPN first then Tor.
-2. But first you'd need a VPN subscription. The best choice here is [Mullvad](https://mullvad.net/en/) which you can buy with Bitcoin through their [onion website](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/en/).
-3. But to purchase the VPN you'd need clean BTC, which is somewhat difficult to get. You can either buy from someone you know, or from a stranger in a peer to peer market. However, the latter would only be 100% clean if you transacted with cash, and the availability and feasibility for that would depend on the country you're in.
-4. Additionally, you would also need untraceable phone and phone number. This can be very hard to get, especially considering that many solutions can be [honeypots](https://www.vice.com/en/article/m7e733/anom-fbi-andrew-young-encryption-honeypot).
-
-## Operating Your New Identity
-
-### Basic Threat Model
-
-### Advanced Threat Model
+Phew! If you performed each and every step with caution and attention, your new identity should now be set and ready to be used. You have a pronounceable handle, a new phone number, an email address, maybe a domain, GPG keys, a YubiKey, and a GitHub account with GPG commit signing enabled.
