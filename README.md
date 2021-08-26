@@ -1,4 +1,4 @@
-# Blockchain Commons Pseudonimity Guide
+# Blockchain Commons Pseudonymity Guide
 
 <!--Guidelines: https://github.com/BlockchainCommons/secure-template/wiki -->
 
