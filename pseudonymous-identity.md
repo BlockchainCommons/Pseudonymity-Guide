@@ -6,16 +6,16 @@ It is important to note that perfect privacy is not a thing. Aiming for the perf
 
 ### Table of Contents
 
-- Introduction
-  - Threat Model
-  - Hardware and Software Choices
-    - Smartphones
-    - Computers
-  - Device Usage
+- [Introduction](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#introduction)
+  - [Threat Model](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#threat-model)
+  - [Hardware and Software Choices](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#hardware-and-software-choices)
+    - [Smartphones](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#smartphones)
+    - [Computers](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#computers)
+  - [Device Usage](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#device-usage)
 
-- What to Use
-- Create Your Pseudonymous Identity
-- Operate Your Pseudonymous Identity
+- [What to Use](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#what-to-use)
+- [Create Your New Identity](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#create-your-new-identity)
+- [Operate Your New Identity](https://github.com/namcios/pseudonymity-guide/blob/master/pseudonymous-identity.md#operate-your-new-identity)
 
 ## Introduction
 
@@ -212,3 +212,5 @@ For the following steps, use the setup you selected in "What to Use." At the ver
     - Note: some of your identity needs can be accomplished with similar, more private and secure tools than mainstream ones. For example, you might need a document editing tool and Google Docs might jump out in your head as the go-to service, but often you could use CryptPad instead. Refer to [Privacy Tools](http://www.privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/) every time you realize you need to sign up for a new service and evaluate if there's a more private alternative that suits your needs.
 
 Phew! If you performed each and every step with caution and attention, your new identity should now be set and ready to be used. You have a pronounceable handle, a new phone number, an email address, maybe a domain, GPG keys, a YubiKey, and a GitHub account with GPG commit signing enabled.
+
+## Operate Your New Identity
