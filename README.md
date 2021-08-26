@@ -2,13 +2,11 @@
 
 <!--Guidelines: https://github.com/BlockchainCommons/secure-template/wiki -->
 
-### _by [Namcios](https://github.com/namcios) and Christopher Allen_
+### _by [Namcios](https://github.com/namcios) and [Christopher Allen](https://github.com/ChristopherA)_
 
 **Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonymous identity. It is aimed to help activists, journalists, and others prevent or evade online stalking, doxxing, harassment, oppression, or censorship.
 
 This guide does not aim to help malicious actors perform unethical, criminal, or illicit activities. It is written  with the sole purpose to inform good-intended individuals, especially human rights activists, about often overlooked considerations and risks in online activities. Therefore, it provides insights and actionable steps someone can take to sanitize their online environment and habits, as well as tips on creating and operating a pseudonymous identity separate from their real world identity.
-
-Currently, this guide does not provide information on achieving near-to-perfect privacy on the internet, for instance, to guard against NSA-like personal targetting.
 
 ## Additional Information
 
@@ -113,7 +111,7 @@ The following people directly contributed to this repository. You can add your n
 | Name              | Role                | Github                                           | Email                                 | GPG Fingerprint                                    |
 | ----------------- | ------------------- | ------------------------------------------------ | ------------------------------------- | -------------------------------------------------- |
 | Christopher Allen | Principal Architect | [@ChristopherA](https://github.com/ChristopherA) | \<ChristopherA@LifeWithAlacrity.com\> | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
-| Namcios           | Lead                | [@namcios](https://github.com/namcios)           | namcios@protonmail.com                | 55A2 4BE0 AEE5 DB41 52C6 A410 8E3A 3683 1726 9AB4  |
+| Namcios           | Lead Author               | [@namcios](https://github.com/namcios)           | \<namcios@protonmail.com\>                | 55A2 4BE0 AEE5 DB41 52C6 A410 8E3A 3683 1726 9AB4  |
 
 ## Responsible Disclosure
 
