@@ -4,17 +4,17 @@
 
 ### _by [Namcios](https://github.com/namcios) and [Christopher Allen](https://github.com/ChristopherA)_
 
-**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonymous identity. It is aimed to help activists, journalists, and others prevent or evade online stalking, doxxing, harassment, oppression, or censorship.
+**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonymous identity. It is intended to help activists, journalists, and others prevent or evade online stalking, doxxing, harassment, oppression, or censorship.
 
-This guide does not aim to help malicious actors perform unethical, criminal, or illicit activities. It is written  with the sole purpose to inform good-intended individuals, especially human rights activists, about often overlooked considerations and risks in online activities. Therefore, it provides insights and actionable steps someone can take to sanitize their online environment and habits, as well as tips on creating and operating a pseudonymous identity separate from their real world identity.
+This guide is not meant to help malicious actors perform unethical, criminal, or illicit activities. It is written with the sole purpose of informing good-intentioned individuals, especially human-rights activists, about often-overlooked considerations and risks in online activities. Therefore, it provides insights and actionable steps that someone can take to sanitize their online environment and habits, as well as tips on creating and operating a pseudonymous identity separate from their real-world identity.
 
 ## Additional Information
 
-* [Pseudonymous-identity.md](./pseudonymous-identity.md) is the project's main file and houses its core content. It provides a few introductory notes on privacy and pseudonymity, some starting tips for improving your privacy online, how to create a new pseudonymous identity, and how to operate it.
+* [Pseudonymous-identity.md](./pseudonymous-identity.md) is the project's main file and houses its core content. It provides a few introductory notes on privacy and pseudonymity, some starting tips for improving your privacy online, and advice on how to create a new pseudonymous identity and how to operate it.
 
 ## Status - Early Draft
 
-Pseudonymity Guide is currently an early draft. It should not be used for production tasks until it has had further testing and auditing. Feedback welcomed.
+**Pseudonymity Guide** is currently an early draft. It should not be used for production tasks until it has had further testing and auditing. Feedback welcomed.
 
 ### Roadmap
 
@@ -24,7 +24,7 @@ August 2021
 
 ## Origin, Authors, Copyright & Licenses
 
-Unless otherwise noted (either in this [/README.md](./README.md) or in the file's header comments) the contents of this repository are Copyright © 2020 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+Unless otherwise noted (either in this [/README.md](./README.md) or in the file's header comments) the contents of this repository are Copyright © 2021 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
 
 In most cases, the authors, copyright, and license for each file reside in header comments in the source code. When it does not, we have attempted to attribute it accurately in the table below.
 
@@ -34,55 +34,11 @@ This table below also establishes provenance (repository of origin, permalink, a
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------- |
 | exception-to-the-rule.c or exception-folder | [https://github.com/community/repo-name/PERMALINK](https://github.com/community/repo-name/PERMALINK) | [https://github.com/community/repo-name/commit/COMMITHASH]() | 2020 Exception Author  | [MIT](https://spdx.org/licenses/MIT)                        |
 
-### Dependencies
-
-None.
-
-### Libraries
-
-None.
-
-### Derived from ...
-
-This  `$projectname` project is either derived from or was inspired by:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from [community](https://community.com).
-
-## Subsequent Usage
-
-### Adapted by ...
-
-These are adaptations, conversions, and wrappers that make `$projectname` available for other languages:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com)(language).
-
-### Used by ...
-
-These are other projects that directly use `$projectname`:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com)(use OR fork [version] OR include [version]).
-
-Libraries may be marked as `use` (the current version of our repo is used), `fork` (a specific version of our repo has been forked for usage), or `include` (files from a specific version of our repo have been included).
-
-### Used with ...
-
-These are other projects that work with or leverage `$projectname`:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com).
-
 ## Financial Support
 
-Pseudonymity Guide is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
+**Pseudonymity Guide** is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
 
 To financially support further development of Pseudonymity Guide and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
-
-### Project Sponsors
-
-Thanks to our project sponsors for their support of `$projectname`:
-
-$sponsor-logo-with-link
-
-$sponsor-description
 
 ## Contributing
 
