@@ -8,9 +8,19 @@
 
 This guide is not meant to help malicious actors perform unethical, criminal, or illicit activities. It is written with the sole purpose of informing good-intentioned individuals, especially human-rights activists, about often-overlooked considerations and risks in online activities. Therefore, it provides insights and actionable steps that someone can take to sanitize their online environment and habits, as well as tips on creating and operating a pseudonymous identity separate from their real-world identity.
 
-## Additional Information
+## Table of Contents
 
-* [Pseudonymous-identity.md](./pseudonymous-identity.md) is the project's main file and houses its core content. It provides a few introductory notes on privacy and pseudonymity, some starting tips for improving your privacy online, and advice on how to create a new pseudonymous identity and how to operate it.
+- [Privacy Basics](./privacy-basics.md)
+    - [Introduction](./privacy-basics.md#introduction)
+    - [Threat Modeling](./privacy-basics.md#threat-modeling)
+    - [Hardware and Software Choices](./privacy-basics.md#hardware-and-software-choices)
+        - [Smartphones](./privacy-basics.md#smartphones)
+        - [Computers](./privacy-basics.md#computers)
+    - [Device Usage](./privacy-basics.md#device-usage)
+- [Pseudonymous Identity](./pseudonymous-identity.md)
+    - [Technical Choices](./pseudonymous-identity.md#technical-choices)
+    - [Create Your New Identity](./pseudonymous-identity.md#create-your-new-identity)
+    - [Operate Your New Identity](./pseudonymous-identity.md#operate-your-new-identity)
 
 ## Status - Early Draft
 
