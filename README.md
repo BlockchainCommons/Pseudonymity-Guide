@@ -22,9 +22,9 @@ This guide is not meant to help malicious actors perform unethical, criminal, or
     - [Create Your New Identity](./pseudonymous-identity.md#create-your-new-identity)
     - [Operate Your New Identity](./pseudonymous-identity.md#operate-your-new-identity)
 
-## Status - Early Draft
+## Status - Edited
 
-**Pseudonymity Guide** is currently an early draft. It should not be used for production tasks until it has had further testing and auditing. Feedback welcomed.
+**Pseudonymity Guide** has been edited but should not be used for production tasks until it has had further testing and auditing.
 
 ### Roadmap
 
