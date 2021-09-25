@@ -4,11 +4,46 @@
 
 ### _by [Namcios](https://github.com/namcios) and [Christopher Allen](https://github.com/ChristopherA)_
 
-**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonymous identity. It is intended to help activists, journalists, and others prevent or evade online stalking, doxxing, harassment, oppression, or censorship.
+**Pseudonymity Guide** is a tutorial on how to securely create and operate a pseudonymous identity. It is intended to help activists, journalists, and others prevent or evade online stalking, doxxing, harassment, oppression, coercion, or censorship.
 
 This guide is not meant to help malicious actors perform unethical, criminal, or illicit activities. It is written with the sole purpose of informing good-intentioned individuals, especially human-rights activists, about often-overlooked considerations and risks in online activities. Therefore, it provides insights and actionable steps that someone can take to sanitize their online environment and habits, as well as tips on creating and operating a pseudonymous identity separate from their real-world identity.
 
+Start by reading the introduction below, which provides you with an overview of this guide's sections and their primary goals, the course of action you will take, and the benefits you can expect to gain from this guide.
+
+## Introduction
+
+In Part I of this guide, you are going to understand why you need privacy and why it is important. Privacy is a fundamental human right that precedes many others. This guide will discuss these intricacies and present cases and examples when an abuse of individual privacy has led to harsh consequences. Some negative side-effects of neglecting privacy are: loss of freedom, suppressed and diminished diversity in society, harassment, stalking, identity theft, permanent injuries to personal records or reputation, coercion, blackmail, and sometimes even death.
+
+The interconnected digital world offers a unique tool for people to communicate, share ideas, comment on other's developments or projects, and can also lead to personal connections being developed in the physical world. However, such ease of flow of information also enables people to invade each other's private spaces, often resulting in the consequences mentioned above. Hackers, governments, and motivated entities in general have a huge amount of data available online, most often to the oblivion of regular people, which they can leverage to influence those people's behavior.
+
+The hope of this guide is that an awareness of the ever-increasing pile of data being collected on you individually, with or without your consent, as well as of the likely consequences of that data falling in preying hands, may lead you to reconsider your relationship to the internet. Now, more than ever, it is of utmost importance for each and everyone to think what information about themselves they want and don't want made public in the internet.
+
+After you understand all the primary moving pieces in online privacy, you will be prompted to think about your threat model in Part II. The guide will provide you with a basic notion of what a threat model is, why it is important, and how you can develop your own, as well as linking to resources for further research into the complex topic. A well-defined threat model will prevent you from trying to protect everything from everyone, something that is not achievable nor desirable. Instead, you will have a good understanding of who your true adversaries are, what information or assets you need to protect from them, and what are the actions you can take to enforce your threat model. Clarity on these is paramount to ensuring the success of your advocacy.
+
+After defining your threat model, you will be ready to start creating a pseudonymous identity from scratch in Part III. The benefits of separating your real-world identity from the one you use for your advocacy needs can compound over the long-term, especially if you live in an authoritarian-ruled country. Ensuring that every human being can enjoy their dutiful rights is an honorable action, but one seldom secured by authoritarian regimes. In that case, being able to shed light on the issues surrounding your community, or even global humanity at large, can be empowered and facilitated by the correct use of a pseudonymous identity.
+
+Beyond offering a step-by-step guide to creating a new pseudonymous identity, Part III of this guide will also discuss the technical choices you need to consider to make that happen. Your technical abilities and budget are leveraged to explain what route you should take regarding a computer and a mobile phone, as well as the software you want to have in them. This will tie back to the online privacy questions raised in Part I, as well as to the threat model you devised in Part II. Since human rights advocacy and activism is increasingly done online, the tools with which you connect to and engage with the internet matter. The correct selection and usage of such tools will play a big role in the successul safeguarding of your private information and assets from your adversaries.
+
+Now that you know precisely what issues this guide aims to solve, and the ones it doesn't, you can begin to understand "Why Privacy Is Important" in [Section One]. You can also reference the table of contents below at any time.
+
 ## Table of Contents
+
+**SECTION ONE: WHY PRIVACY MATTERS**
+
+- 1.1: Why Is Privacy Important?
+- 1.2: Basic Steps To Regain Online Privacy
+
+**SECTION TWO: THREAT MODELING**
+
+- 2.1: Define Your Threat Model
+
+**SECTION THREE: A NEW IDENTITY**
+
+- 3.1: Technical Choices For A New Identity
+- 3.2: Create Your New Identity
+- 3.3: Operate Your New Identity
+
+_Old table of contents:_
 
 - [Privacy Basics](./privacy-basics.md)
     - [Introduction](./privacy-basics.md#introduction)
@@ -31,6 +66,13 @@ This guide is not meant to help malicious actors perform unethical, criminal, or
 August 2021
 
 - Finish first version of the guide
+
+September-October 2021
+
+- [ ] Improve organization by separating guide into sections with clear objectives.
+- [x] Provide more clarity in README with an intro. What can the reader expect from the guide and what will they gain from it?
+- [ ] Create "Why Is Privacy Important?" file
+- [ ] Break up "Privacy Basics" into more granular files (steps to regain privacy, threat modeling, technology choices, etc.)
 
 ## Origin, Authors, Copyright & Licenses
 
