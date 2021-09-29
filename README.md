@@ -41,27 +41,13 @@ Now that you know precisely what issues this guide aims to solve and the ones it
 
 **SECTION THREE: A NEW IDENTITY**
 
-- 3.1: Technical Choices for a New Identity
-- 3.2: Create Your New Identity
-- 3.3: Operate Your New Identity
+- 3.1: [Technical Choices for a New Identity](03_1_technical_choices.md)
+- 3.2: [Create Your New Identity](03_2_create_identity.md)
+- 3.3: [Operate Your New Identity](03_3_operate_identity.md)
 
 **APPENDICES**
 - A1: [Smartphones](A1_smartphones.md)
 - A2: [Computers](A2_computers.md)
-
-_Old table of contents:_
-
-- [Privacy Basics](./privacy-basics.md)
-    - [Introduction](./privacy-basics.md#introduction)
-    - [Threat Modeling](./privacy-basics.md#threat-modeling)
-    - [Hardware and Software Choices](./privacy-basics.md#hardware-and-software-choices)
-        - [Smartphones](./privacy-basics.md#smartphones)
-        - [Computers](./privacy-basics.md#computers)
-    - [Device Usage](./privacy-basics.md#device-usage)
-- [Pseudonymous Identity](./pseudonymous-identity.md)
-    - [Technical Choices](./pseudonymous-identity.md#technical-choices)
-    - [Create Your New Identity](./pseudonymous-identity.md#create-your-new-identity)
-    - [Operate Your New Identity](./pseudonymous-identity.md#operate-your-new-identity)
 
 ## Status - Edited
 
@@ -75,10 +61,10 @@ August 2021
 
 September-October 2021
 
-- [ ] Improve organization by separating guide into sections with clear objectives.
+- [x] Improve organization by separating guide into sections with clear objectives.
 - [x] Provide more clarity in README with an intro. What can the reader expect from the guide and what will they gain from it?
-- [ ] Create "Why Is Privacy Important?" file
-- [ ] Break up "Privacy Basics" into more granular files (steps to regain privacy, threat modeling, technology choices, etc.)
+- [x] Create "Why Is Privacy Important?" file
+- [x] Break up "Privacy Basics" into more granular files (steps to regain privacy, threat modeling, technology choices, etc.)
 
 ## Origin, Authors, Copyright & Licenses
 
