@@ -1,12 +1,16 @@
 # 1.2: Basic Steps to Regain Online Privacy
 
+Privacy is a basic human right, often protected and ensured in the physical world, which has been a reality for the entirety of human existence. However, in the new digital world, privacy is seldom secured, and companies, governments, and other people often overextend their powers to the detriment of individual rights which get left behind as the differences between physical and online privacy encourage illegitimate data harvesting.
+
+In the previous article, you learned about the importance of privacy. This document discusses actions you can take to regain some of your online privacy. It highlights steps you can take today to diminish the footprint you leave online and reduce the overall risk of falling victim to online doxxing, stalking, coercion, and other undesirable consequences of carelessly browsing the internet.
+
 You have plenty of options regarding _what_ to use for your online activities, but perhaps the most important aspect is _how_ you use it. Details of specific hardware and software you will need to use for your new identity are discussed in [3.1: Technical Choices for a New Identity](03_1_technical_choices.md), but here we will focus on what behavioral changes you can start performing right away.
 
-For every problem or issue you face, you also face decisions. Often, those decisions are enacted by taking into consideration the tradeoffs between ease of use and the consequences. In digital systems, people often turn to the most convenient solution possible, pushed by the "technology was created to make our lives easier" narrative whilst completely ignoring the unintended side effects or the risks associated with each technological choice.
+For every problem or issue you face, you also face decisions. Often, those decisions are enacted by taking into consideration the tradeoffs between ease of use and the consequences. In digital systems, people often turn to the most convenient solution possible, pushed by the "technology was created to make our lives easier" narrative whilst completely ignoring the unintended side effects and the risks associated with each technological choice.
 
-Here, we propose steps you can take to regain some of your online privacy. Some of these will require you to lose some convenience, but the associated benefits gained should be worth the extra effort. Remember that these aren't a one-time thing; rather, for achieving sustaining privacy, you'll need to make these a habit.
+Here, we propose best practices that will allow you to regain some of your online privacy. Some of these will require you to lose some convenience, but the benefits gained as a result should be worth the extra effort. Remember that these aren't a one-time thing; rather, you'll need to make these a habit.
 
-The tips and habits proposed in this document should be practiced and done by everyone who uses the internet, regardless or their threat model. In that sense, a more advanced setup and habits will be discussed in Section Three, for your new identity. Until then, take note of and perform the below to start reclaiming your online privacy now.
+The tips shared in this document should be practiced and done by everyone who uses the internet, regardless or their threat model. In that sense, a more advanced setup and specific habits will be discussed in Section Three, for your new identity. Until then, take note of and perform the below to start reclaiming your online privacy now.
 
 ## Use Free and Open Source Software (FOSS)
 

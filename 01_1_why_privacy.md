@@ -68,6 +68,8 @@ But even if you wish to dismiss all that and take the selfish route, being aware
 
 ## Conclusion
 
+> "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say." – Edward Snowden.
+
 The internet has become a hotbed for data harvesting as users are faced with ever-increasing requirements of data submission to access online services (aka know-your-customer, or KYC, procedures). Although KYC is marketed as being a counter-terrorism practice, it often leads to users having their personal information compromised. This is because data collecting companies, such as a phone company or bank that, which collect data to offer their services, are bad in securing that data.
 
 The solution is not always hardened security for those companies' systems. The companies will always pose a security and privacy issue because they represent single points of failure: one system that guards many data points. Compared to a distributed peer-to-peer system, it is easier for such a single system to be targetted by hackers or attackers, and so they will be.
