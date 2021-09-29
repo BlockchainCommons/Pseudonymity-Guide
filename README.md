@@ -33,7 +33,7 @@ Now that you know precisely what issues this guide aims to solve and the ones it
 **SECTION ONE: PRIVACY**
 
 - 1.1: [Why Is Privacy Important?](01_1_why_privacy.md)
-- 1.2: Basic Steps To Regain Online Privacy
+- 1.2: [Basic Steps to Regain Online Privacy](01_2_regain_privacy.md)
 
 **SECTION TWO: THREAT MODELING**
 
@@ -41,9 +41,13 @@ Now that you know precisely what issues this guide aims to solve and the ones it
 
 **SECTION THREE: A NEW IDENTITY**
 
-- 3.1: Technical Choices For A New Identity
+- 3.1: Technical Choices for a New Identity
 - 3.2: Create Your New Identity
 - 3.3: Operate Your New Identity
+
+**APPENDICES**
+- A1: [Smartphones](A1_smartphones.md)
+- A2: [Computers](A2_computers.md)
 
 _Old table of contents:_
 
