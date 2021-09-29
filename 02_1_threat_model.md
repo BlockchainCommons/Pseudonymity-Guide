@@ -25,3 +25,9 @@ For more complete ways of determining your threat model, you can browse through 
 - [STRIDE Threat Modeling](https://en.wikipedia.org/wiki/STRIDE_%28security%29)
 - [DREAD Risk Assessment Model](https://en.wikipedia.org/wiki/DREAD_%28risk_assessment_model%29)
 - [Smart Custody](https://github.com/BlockchainCommons/SmartCustody): threat modeling for your bitcoin and secure storage best practices.
+
+## Conclusion
+
+Threat modeling is an essential activity you need to conduct in order to successfully create and operate a new identity. More than that, it can also help you pinpoint the exact assets you need to protect and from what entities. Without a clear threat model, you may feel inclined to try to protect everything from everyone, a counterproductive mindset that will most likely freeze you and prevent you from achieving your goals.
+
+After you have taken the time to carefully analyze what your threat model would look like, and developed one, move on to Section Three, where you will be making [Technical Choices for a New Identity](03_1_technical_choices.md).

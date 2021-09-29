@@ -1,4 +1,4 @@
-# Why Is Privacy Important?
+# 1.1: Why Is Privacy Important?
 
 If you ask anyone if they need privacy, their likely answer will be something along the lines of, "Of course not, only people performing bad actions need privacy. I don't need it because I have nothing to hide." These remarks are far too common; nonetheless, they are often short-sighted.
 
