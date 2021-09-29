@@ -26,13 +26,13 @@ Once you've defined what your threat model looks like, you will be ready to star
 
 Before offering a step-by-step guide to creating a new pseudonymous identity, Section Three will discuss the technical choices you need to consider to make that happen securely. Your technical abilities and budget will be leveraged to explain what route you should take regarding a computer and a mobile phone and what software you want to have in them. These choices will tie back to the online privacy questions raised in Section One, as well as to the threat model you created in Section Two. Since human-rights advocacy and activism are increasingly done online, the tools you use to connect to and engage with the internet matter. The correct selection and usage of such devices will play a significant role in the successful safeguarding of your private information and assets from your adversaries.
 
-Now that you know precisely what issues this guide aims to solve and the ones it doesn't, you can begin to understand "Why Privacy Matters" in [Section One: Why Is Privacy Important?]. You can also reference the table of contents below at any time.
+Now that you know precisely what issues this guide aims to solve and the ones it doesn't, you can begin to understand why privacy matters in Section One's first file: [Why Is Privacy Important?](01_1_why_privacy.md). You can also reference the table of contents below at any time.
 
 ## Table of Contents
 
-**SECTION ONE: WHY PRIVACY MATTERS**
+**SECTION ONE: PRIVACY**
 
-- 1.1: Why Is Privacy Important?
+- 1.1: [Why Is Privacy Important?](01_1_why_privacy.md)
 - 1.2: Basic Steps To Regain Online Privacy
 
 **SECTION TWO: THREAT MODELING**
