@@ -37,7 +37,7 @@ Now that you know precisely what issues this guide aims to solve and the ones it
 
 **SECTION TWO: THREAT MODELING**
 
-- 2.1: Define Your Threat Model
+- 2.1: [Define Your Threat Model](02_1_threat_model.md)
 
 **SECTION THREE: A NEW IDENTITY**
 
