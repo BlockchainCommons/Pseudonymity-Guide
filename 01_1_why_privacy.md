@@ -66,6 +66,26 @@ To say that only people doing bad things need privacy because they want to cover
 
 But even if you wish to dismiss all that and take the selfish route, being aware of and fighting to protect your privacy is an act of self-respect and preservation because you might not know the path your country chooses to follow next. By neglecting your privacy now, you may find yourself in troubled waters if democracy keeps declining worldwide as it has been in the 21st century[^16][^17][^18].
 
+## Conclusion
+
+The internet has become a hotbed for data harvesting as users are faced with ever-increasing requirements of data submission to access online services (aka know-your-customer, or KYC, procedures). Although KYC is marketed as being a counter-terrorism practice, it often leads to users having their personal information compromised. This is because data collecting companies, such as a phone company or bank that, which collect data to offer their services, are bad in securing that data.
+
+The solution is not always hardened security for those companies' systems. The companies will always pose a security and privacy issue because they represent single points of failure: one system that guards many data points. Compared to a distributed peer-to-peer system, it is easier for such a single system to be targetted by hackers or attackers, and so they will be.
+
+But full anonymity in the internet is likely a far-fetched reality. Tracking companies and their practices can extend far beyong your browser and its cookies. Someone who seeks online anonymity––or at least pseudonymity––must go at great lengths, usually at the expense of time and money. Basic habits will allow you to protect against the most commons threats that arise from online data harvesting from government, companies, and fellow humans, including:
+
+- **Marketing manipulation.** Marketing companies can purchase your information from other corporations, e.g. banks, social media, hospitals or clinics, and bombard you with their marketing efforts through mail, email, phone number, etc. This can also be used to manipulate persons or groups of people, as in the [Cambridge Analytica case](https://www.theguardian.com/technology/2019/mar/17/the-cambridge-analytica-scandal-changed-the-world-but-it-didnt-change-facebook).
+- **Credit card fraud.** Bad actors can steal your information through social engineering or phishing scams and make purchases in your name. This can usually be reverted but will result in at least many days of headaches.
+- **Identity theft.** Also through social engineering, people can commit crimes under your name, permanently injuring your personal records and affecting your life forever.
+- **Personal stalking.** Technology has enabled tracking to be easier and more accurate, often putting peoples' lives in danger. Information sellers can also be harmful in this case, and might've been liable in the [Amy Boyer case](https://epic.org/privacy/boyer/).
+- **Government surveillance.** Some examples include: [ECHELON](https://techcrunch.com/2015/08/03/uncovering-echelon-the-top-secret-nsa-program-that-has-been-watching-you-your-entire-life), [FinCEN](https://www.thomsonreuters.com/en-us/posts/investigation-fraud-and-risk/fincen-leaks-aml/), [XKeyScore](https://www.hackread.com/xkeyscore-nsa-tool-spy-data-online/), [Fascia](https://www.digitaltrends.com/mobile/nsa-tracking-cell-phone-location/), [Optic Nerve](https://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo), and [PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet). The issue is that many of these projects, created to target and trim terrorism, more often than not [don't deliver](https://www.wired.com/2015/05/breaking-news-federal-court-rules-nsa-bulk-data-collection-illegal/) and end up harming civilians.
+
+> Reminder: this guide currently does not help you guard from highly-skilled, highly-motivated individuals that are tracking you individually.
+
+Privacy, including digital privacy, is not only a basic right but should be encouraged and practiced by regular people everyday. Bottom line is, everyone can benefit from adding even a little extra privacy in their online lives.
+
+Now that you have understood why privacy is important, move on to take [Basic Steps To Regain Online Privacy](01_2_regain_privacy.md).
+
 ## Footnotes
 
 [^1]: Joe Mullin. Retrieved September 2021. "The incredibly simple story of how the gov’t Googled Ross Ulbricht." Arstechnica Policy. [https://arstechnica.com/tech-policy/2015/01/the-incredibly-simple-story-of-how-the-govt-googled-ross-ulbricht/](https://arstechnica.com/tech-policy/2015/01/the-incredibly-simple-story-of-how-the-govt-googled-ross-ulbricht/)
