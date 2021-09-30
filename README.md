@@ -45,10 +45,6 @@ Now that you know precisely what issues this guide aims to solve and the ones it
 - 3.2: [Create Your New Identity](03_2_create_identity.md)
 - 3.3: [Operate Your New Identity](03_3_operate_identity.md)
 
-**APPENDICES**
-- A1: [Smartphones](A1_smartphones.md)
-- A2: [Computers](A2_computers.md)
-
 ## Status - Edited
 
 **Pseudonymity Guide** has been edited but should not be used for production tasks until it has had further testing and auditing.
