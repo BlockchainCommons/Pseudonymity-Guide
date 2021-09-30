@@ -69,15 +69,15 @@ Most importantly - if in doubt, _don't click!_
 
 ### Use a VPN
 
-Some think Virtual Private Networks (VPNs) are the holy grail of privacy, but that is often not the case. VPNs are better for security, because they make sure all your network traffic gets tunneled through encrypted channels. You also get a new public-facing IP address, so that would give you some privacy. But it is far from being anonymous.
+Some think Virtual Private Networks (VPNs) are the holy grail of privacy or anonymity, but that is not the case. VPNs are better for security when using public Wi-Fi networks, because they make sure all your network traffic gets tunneled through encrypted channels. You also get a new public-facing IP address, so that would give you some privacy from your internet service provider (ISP). Apart from that, a VPN will also let you circumvent blocked content in your location and access content that can only be reached from other places. Just don't expect using a VPN will make you anonymous!
 
-Overall, there are plenty of advantages to using a good VPN. However, there are also negative aspects. By using a VPN you're trusting that company not to snoop on your traffic or keep logs of it, and a bad VPN would do just that –– spy on your network traffic and keep logs to sell it out or hand it over at a whim. For that reason, never use a VPN that keeps logs, and choose one that has been audited by a third party.
+Overall, there are some advantages to using a good VPN. However, there are also negative aspects. By using a VPN you're trusting that company not to snoop on your traffic or keep logs of it, and a bad VPN would do just that –– spy on your network traffic and keep logs to sell it out or hand it over at a whim. For that reason, never use a VPN that keeps logs, and choose one that has been audited by a third party.
 
 Additionally, it might be helpful to use a VPN service that does not require extensive information for account setup and that you can pay for with Bitcoin. This would grant you some anonymity - or at least pseudoanonymity. [Mullvad](https://mullvad.net/en/) is a good choice for all the above reasons, and they have an [onion website](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/en/) too.
 
-The proper steps you need to take to subscribe to a good VPN securely and privately will be discussed in Section Three, so you might want to wait until you get there to get it sorted out. But you might want to have a VPN for your real-world identity too, in which case you can start getting right away. Just be sure to use a different option than Mullvad, because that will be used for the identity you'll be creating later on. A good VPN for your real-world identity is ProtonVPN, NortonVPN, or ExpressVPN. Check them out and compare them to see which one best fits your real-world identity needs.
+The proper steps you need to take to subscribe to a good VPN securely and privately will be discussed in Section Three, so you might want to wait until you get there to get it sorted out. But you might want to have a VPN for your real-world identity too, in which case you can start getting right away. Just be sure to use a different option than Mullvad, because that will be used for the identity you'll be creating later on. (A good alternate VPN is ProtonVPN. Check it out and see if it fits your real-world identity needs.)
 
-### Harden your internet browser
+### Harden Your Internet Browser
 
 Your internet browser is your bridge to the online world. It can reveal a great deal of information about you and can easily become an attack vector if it's used on the default configurations and you're careless. So you should carefuly consider which one to use, how to use it, and when to use it.
 
@@ -97,11 +97,11 @@ The Tor Browser is a good, easy solution you can embark on right away, but it is
 
 Dedicate Tor Browser usage to sensitive online searches, advocacy use cases, or other activities that require greater privacy and security from your end. That alone can provide a compartmentalization that you can start performing right now, with zero time and effort requirements and without needing to purchase additional hardware. But beware that your Internet Service Provider (ISP) will be able to know that you're using the Tor anonymity network, and that alone can be undesired in many places: it is often looked at as suspicious even if no bad acting is being done. So, for greater privacy benefits, connect to your VPN first, then Tor. If you face Tor censorship instead, you might need to use Tor Bridges.
 
-### Perform regular updates
+### Perform Regular Updates
 
 Software updates exist for a reason. Yes, they do often introduce nice and cool new features, but more importantly, they fix bugs. Every software has some kind of a bug, and updates fix them; this is how it works. So make sure you're keeping up with your devices' software updates. Some will give you the option to enable autoupdates, turn that on where possible.
 
-### Prevent physical access
+### Prevent Physical Access
 
 This one might be a bit harder, but there are some steps you can take to diminish the risk of having your device be compromised through physical access. You can, for instance, make sure you don't lose sight of it when on risky environments. That is to say that maybe losing sight of your phone while at home likely won't incur high risk, but leaving it in your hotel room while you go for a jog could pose a more serious threat.
 
@@ -111,11 +111,11 @@ So analyze and think what would consist threatening situations and hug that phon
 
 Compartmentalization is a low-effort practice that can go a long way in helping you increase your online privacy. People using the Tor network, for instance, can get de-anonymized by an observer entity through behavioral patterns and cross-links between different activities. Always strive to achieve the highest level of compartmentalization in your digital life, based on use case.
 
-### Email addresses
+### Email Addresses
 
 You can ramp up your privacy from online companies and data centers through email compartmentalization. It will separate your behavior, allowing you to use a different email address for every service you sign up to or every activity you conduct. [Simple Login](https://simplelogin.io) is one such provider. But note that for an advanced threat model, you would be better off not trusting a third party company and using the Tor Browser to manually create new email addresses for each use case. That would require greater effort and time, but would also yield greater privacy.
 
-### Phone numbers
+### Phone Numbers
 
 Similar to email addresses, you also can (and should) use one phone number with each activity, identity, or use case you conduct. For a simpler threat model, a service such as the one provided by [MySudo](https://mysudo.com) can go a long way. For a riskier set of threats in a more advanced threat model, you would need greater time and dedication; you would need to physically purchase a new SIM card, with cash and without revealing your identity if possible, for each identity or use case. A middle ground would be to use VoIP numbers.
 
@@ -128,10 +128,6 @@ It can be unrealistic in most places and countries to open a bank account or get
 ### Devices
 
 Software separation is good, but physical separation is better. If you have two identities, or two different roles or jobs which you wouldn't like getting mixed or doxxed, consider having separate devices for each. If you also keep them physically separate themselves, that's a bonus, because if one phone gets compromised and becomes a wiretap and tracking device, information in the other device will likely be safe. Evaluate if you could benefit from having multiple devices and go down that route if so. And just so that doesn't incur a high investment, you don't need a flagship device most of the times. Also –– if you end up using two separate phones for two different uses, get two different VPNs, one for each; compartmentalize that as well.
-
-For a discussion on smartphones, see the [Appendix One: Smartphones](A1_smartphones.md).
-
-For a discussion on computers, see the [Appendix Two: Computers](A2_computers.md).
 
 ## Conclusion
 
