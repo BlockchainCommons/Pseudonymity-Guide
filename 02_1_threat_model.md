@@ -1,0 +1,33 @@
+# 2.1: Define Your Threat Model
+
+Before creating your pseudonymous identity, you should step back and take some time to figure out your threat model and the security requirements associated with it.
+
+>  NOTE: Be aware that this guide does not aim to help you guard from highly skilled, highly motivated actors with unlimited resources –– such as high-profile nation-states (in terms of resources, e.g. the U.S.) who are coming after you individually or an individual with unlimited resources who wants to track you down. In these cases, you'd need tactics that go beyond the scope of this guide.
+
+You should think about what you want to protect and who you want to protect it from. Additionally, you may want to consider the consequences if you fail. This will help you to determine how serious each threat is and plan accordingly. You will most likely take into account the likelihood of each threat happening and evaluate it against the potential harm it may cause and the general cost to protect against it. In the end, you'll have to decide how much trouble you're willing to go through to try and prevent potentially dire consequences. This might require listing out the options you have that could help mitigate such scenarios and proof-testing them one by one.
+
+The _exact_ steps you should take to define your threat model go beyond the scope of this guide. We will present you, however, with an overview and link to good resources. Generally, you should think about:
+
+1. **What do you want to protect?** Think about the assets you have which you don't wish to lose. This could encompass a wide range of goods, from physical to digital and pure information. It could be your bitcoin, your identity, your car, your smartphone, etc. Think about each and every good you wouldn't want falling into undesirable hands and list them out.
+2. **Who do you want to protect it from?** Now, look back on your list of assets that you want to protect and think about who shouldn't get a hold of them. This may change from asset to asset. For example, you might not want your spouse to have all the keys to your bitcoin, but it probably wouldn't bother you to have them borrow your car. Again, you'll have to think about your unique circumstances, priorities, and levels of threat. In summary, who or what are the people/companies/governments that shouldn't be able to get to or control or seize each of the listed assets?
+3. **How bad are the consequences if you fail?** Take a moment to think about the worst-case scenarios that could come true if that entity took hold of that asset. Would they only be able to steal the asset itself? Would you or your family be put in danger? If so, what kind, online danger or physical danger? Both? It might also be helpful to rank the potential consequences; it might make it easier for you to spot the worse ones.
+4.  **Which potential consequences should you really guard against?** You may take into consideration both the likelihood of that consequence happening as well as how dire it would be. If something really bad is very likely to happen and is possible to be guarded against, that could be on the top of your priority list. Of course, not everything is preventable, but that also doesn't mean you shouldn't try. Threat modeling will help you figure out what you should work towards improving so that the chance of someone doing something bad with that diminishes. So in this step, you should focus on deciding what threats you should work to mitigate.
+5. **How much trouble are you willing to go through to try to prevent the potential consequences selected in the previous step?** Different assets and different bad actors require different measures for protection, and that is what this step covers. Here you will think about what would be necessary to mitigate the chance for each threat to actualize. Let your thoughts run free and outline all the possible steps you could take to make sure that threat's likelihood of happening would be diminished significantly or completely. Think about the options you currently have available to help mitigate your unique threats. Then, you will need to decide which of those steps you are willing to act upon. This is necessary because some of them might require a commitment of time, money, or skills which you either may not have or may decide not to be worth committing to. So elicit the requirements for mitigating each threat, in terms of money, time, efforts, technical skills, and others. Next, carefully evaluate how realistic each action is for your circumstances and rank them in priority so you know what you need to do and when you need to do it.
+
+The above five steps are based on the Surveillance Self Defense (SSD) initiative of the Electronic Frontier Foundation (EFF). You can find the complete guide [here](https://ssd.eff.org/en/module-categories/security-scenarios) –– it encompasses different requirements based on your specific activity. Take a look at it through the lens of the new identity you want to create and its required activities or scenarios.
+
+For more complete ways of determining your threat model, you can browse through these resources:
+
+- [Threat Modeling: 12 Available Methods](https://insights.sei.cmu.edu/blog/threat-modeling-12-available-methods/) by Carnegie Mellon University
+- [LINDDUN privacy engineering](https://www.linddun.org/): a systematic elicitation and mitigation of privacy threats in software systems
+- [Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html): OWASP Cheat Sheet Series
+- [PASTA Threat Modeling](https://versprite.com/tag/pasta-threat-modeling/)
+- [STRIDE Threat Modeling](https://en.wikipedia.org/wiki/STRIDE_%28security%29)
+- [DREAD Risk Assessment Model](https://en.wikipedia.org/wiki/DREAD_%28risk_assessment_model%29)
+- [Smart Custody](https://github.com/BlockchainCommons/SmartCustody): threat modeling for your bitcoin and secure storage best practices.
+
+## Conclusion
+
+Threat modeling is an essential activity you need to conduct in order to successfully create and operate a new identity. More than that, it can also help you pinpoint the exact assets you need to protect and from what entities. Without a clear threat model, you may feel inclined to try to protect everything from everyone, a counterproductive mindset that will most likely freeze you and prevent you from achieving your goals.
+
+After you have taken the time to carefully analyze what your threat model would look like, and developed one, move on to Section Three, where you will be making [Technical Choices for a New Identity](03_1_technical_choices.md).
